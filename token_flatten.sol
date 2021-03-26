@@ -1,8 +1,6 @@
 // Sources flattened with hardhat v2.1.1 https://hardhat.org
 
-// File openzeppelin-solidity/contracts/token/ERC20/IERC20.sol@v4.0.0-rc.0
-
-// SPDX-License-Identifier: MIT
+// File openzeppelin-solidity/contracts/token/ERC20/IERC20.sol@v4.0.0
 
 pragma solidity ^0.8.0;
 
@@ -81,7 +79,7 @@ interface IERC20 {
 }
 
 
-// File openzeppelin-solidity/contracts/utils/Context.sol@v4.0.0-rc.0
+// File openzeppelin-solidity/contracts/utils/Context.sol@v4.0.0
 
 pragma solidity ^0.8.0;
 
@@ -107,7 +105,7 @@ abstract contract Context {
 }
 
 
-// File openzeppelin-solidity/contracts/token/ERC20/ERC20.sol@v4.0.0-rc.0
+// File openzeppelin-solidity/contracts/token/ERC20/ERC20.sol@v4.0.0
 
 pragma solidity ^0.8.0;
 
@@ -410,8 +408,7 @@ contract ERC20 is Context, IERC20 {
 }
 
 
-// File openzeppelin-solidity/contracts/access/Ownable.sol@v4.0.0-rc.0
-
+// File openzeppelin-solidity/contracts/access/Ownable.sol@v4.0.0
 
 pragma solidity ^0.8.0;
 
