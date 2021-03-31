@@ -1,0 +1,22 @@
+
+{
+    "network": {
+        "url": "http://127.0.0.1:7545",
+        "chainId": 5777
+    },
+
+    "token": {
+        "address": "0x3D53D4BEEEd94034673Aa44d628eaEb08E54AF81",
+        "digits": "000000000000000000"
+    },
+
+    "airdropPool": {
+        "address": "0x4504501cCBE852E03759Fa412239A7deE7a8F4e9",
+        "treshold": "100",
+        "digits": "000000000000000000"
+    },
+
+    "liquidityPool" : {
+        "address": "0xADb8161F62813Beb60eA7849ECeEd6212ae67192"
+    }
+}
